@@ -1,0 +1,19 @@
+{
+    "name": "verinoval/ambil-bni",
+    "description": "script ambil data mutasi bank BNI",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "verinoval",
+            "email": "verri.noval47@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+	"autoload": {
+        "psr-4": {
+            "CekBNI\\":"src/"
+        }
+    }
+}
